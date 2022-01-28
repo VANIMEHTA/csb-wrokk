@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(179, 193, 218);
+}
+div {
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 15%;
+  margin-left: 30%;
+  margin-right: 30%;
+  position: relative;
+  font-family: "Outfit", sans-serif;
+  font-weight: 1000;
+}
+h2 {
+  padding-right: 5%;
+  padding-left: 5%;
+}
+img {
+  width: 80%;
+  margin-top: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+
+  border-radius: 20px;
+}
+p {
+  color: hsl(212, 45%, 89%);
+  padding-top: none;
+  padding: 15%;
+}
